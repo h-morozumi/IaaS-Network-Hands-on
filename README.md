@@ -10,15 +10,13 @@
 
 ## 最終構成図
 
-TODO : 最終構成図を記載する
+<img src="./images/top-01.png" width="800" />
 
 ## 目次
 
-- [Exercise 1 - 仮想ネットワークの作成](./documents/Exercise%201.md)
-- Exercise 2 - サブネットの作成
-- Exercise 3 - セキュリティグループの作成
-- Exercise 4 - VNetピアリングの設定
-- Exercise 5 - 仮想マシンの作成
+- [Exercise 1 - ネットワークの構築](./documents/Exercise%201.md)
+- [Exercise 2 - 仮想マシンの作成](./documents/Exercise%202.md)
+- [Exercise 3 - 監視とセキュリティ](./documents/Exercise%203.md)
 
 ## 参考資料
 
@@ -40,6 +38,7 @@ TODO : 最終構成図を記載する
 ### 運用・監視関連
 - [Azure Virtual Machines を監視する](https://learn.microsoft.com/ja-jp/azure/virtual-machines/monitor-vm?toc=%2Fazure%2Fvirtual-machines%2Ftoc.json)
 - [クラウド導入フレームワークの概要](https://learn.microsoft.com/ja-jp/azure/cloud-adoption-framework/get-started/)
+- [名前付け規則を定義する](https://learn.microsoft.com/ja-jp/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming)
 
 ### セキュリティ関連
 - [Microsoft Defender for Cloud とは](https://learn.microsoft.com/ja-jp/azure/defender-for-cloud/defender-for-cloud-introduction)
