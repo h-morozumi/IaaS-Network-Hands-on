@@ -64,7 +64,7 @@
 
 - 基本
     - リソースグループ：azure-hands-on（お使いのリソースグループ名に置き換えてください）
-    - 仮想マシン名：workshop-windows-vm
+    - 仮想マシン名：workshop-linux-vm
     - リージョン：Japan East
     - 可用性オプション：インフラストラクチャ冗長は必要ありません
     - セキュリティの種類：Standard
